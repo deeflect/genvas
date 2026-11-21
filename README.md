@@ -31,7 +31,7 @@ Your coding agent can build and run boards through the MCP server that Genvas sh
 Dry-run pricing shows the cost of a run before it starts. Agent runs can use OpenAI Batch at half price.
 
 ### Your own API keys
-Connect keys from OpenAI, Gemini, ElevenLabs, Fal, Replicate, Kie, Sume, OpenRouter, Fish Audio or Higgsfield.
+Connect keys from OpenAI, Gemini, ElevenLabs, Fal, Kie, Sume, OpenRouter, Fish Audio or Higgsfield.
 
 ### Full-screen viewers
 Crop, split, upscale, trim and compose in a full-screen viewer.
