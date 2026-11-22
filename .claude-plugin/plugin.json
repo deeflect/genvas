@@ -1,0 +1,24 @@
+{
+  "name": "genvas",
+  "version": "1.4.1",
+  "description": "Desktop node canvas for AI images, video, voiceovers, music, and 3D driven by coding agents over local MCP using your own API keys.",
+  "author": {
+    "name": "Dmitry (Dee) Kargaev",
+    "url": "https://www.deeflect.com"
+  },
+  "homepage": "https://genvas.app",
+  "repository": "https://github.com/deeflect/genvas",
+  "keywords": [
+    "ai-video",
+    "ai-image",
+    "ai-audio",
+    "node-canvas",
+    "mcp",
+    "claude-code",
+    "codex",
+    "byok"
+  ],
+  "skills": [
+    "./skills"
+  ]
+}
