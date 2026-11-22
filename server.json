@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.deeflect/genvas",
+  "title": "Genvas",
+  "description": "Desktop node canvas for AI image, video, audio and 3D over local MCP with BYO API keys.",
+  "version": "1.4.1",
+  "repository": {
+    "source": "github",
+    "url": "https://github.com/deeflect/genvas"
+  },
+  "websiteUrl": "https://genvas.app",
+  "packages": [
+    {
+      "registryType": "mcpb",
+      "identifier": "https://github.com/deeflect/genvas/releases/download/v1.4.1/genvas-1.4.1.mcpb",
+      "fileSha256": "28be9fcfa1dff72c80de4610e664285f786784d6e66dd1fc43c3e0bf471f9f2a",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
