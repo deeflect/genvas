@@ -1,7 +1,7 @@
 <p align="center"><a href="https://genvas.app"><img src="assets/icon.png" alt="Genvas icon" width="120"></a></p>
 <h1 align="center">Genvas</h1>
 <p align="center"><strong>Desktop canvas for AI images, video, audio and 3D — driven by your coding agent over MCP</strong></p>
-<p align="center"><a href="https://genvas.app">Website</a> · <a href="https://github.com/deeflect/genvas/releases/latest">Download Beta (Mac / Windows / Linux)</a> · <a href="https://github.com/deeflect/genvas/issues/new?template=bug_report.yml">Report a bug</a> · <a href="https://github.com/deeflect/genvas/issues/new?template=feature_request.yml">Request a feature</a></p>
+<p align="center"><a href="https://genvas.app">Website</a> · <a href="https://youtu.be/-MEpgJ1woUo">Watch 44s demo</a> · <a href="https://github.com/deeflect/genvas/releases/latest">Download Beta (Mac / Windows / Linux)</a> · <a href="https://github.com/deeflect/genvas/issues/new?template=bug_report.yml">Report a bug</a> · <a href="https://github.com/deeflect/genvas/issues/new?template=feature_request.yml">Request a feature</a></p>
 <p align="center"><img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-7C9A5B?style=flat-square" alt="platform: macOS | Windows | Linux"> <img src="https://img.shields.io/badge/status-free%20beta-7C9A5B?style=flat-square" alt="status: free beta"> <img src="https://img.shields.io/badge/source-AGPL--3.0%20coming%20soon-7C9A5B?style=flat-square" alt="source: AGPL-3.0 coming soon"></p>
 <p align="center"><img src="assets/hero.png" alt="Genvas: your coding agent, on the canvas" width="100%"></p>
 
